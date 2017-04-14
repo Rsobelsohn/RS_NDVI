@@ -82,6 +82,6 @@ AveLWSDU <- aggregate(datAll.LWS, by=list(datAll$doy), FUN="mean", na.action=na.
 colnames(AveLWSDU) [1] <- "doy"
 colnames(AveLWSDU) [2] <- "LWS"
 ##How do I incorporate both NDVI and LWS on a graph)
-
+#Git testing
 
 
